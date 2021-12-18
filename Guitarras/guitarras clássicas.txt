@@ -1,6 +1,6 @@
 
 
-Abordarei seis tipos de guitarra:
+# Abordarei seis tipos de guitarra:
 
 1. Telecaster
 2. Les Paul
@@ -10,14 +10,14 @@ Abordarei seis tipos de guitarra:
 6. Explorer
 
 
-			Telecaster (TELE)
+			## Telecaster (TELE)
 
 	Entre todos os tipos de guitarra, a Telecaster tem um lugar especial.Apesar de não ser o mais famoso, esse é o modelo que pode ser considerado a origem das guitarras de corpo sólido. Desenvolvido originalmente pela Fender, no início dos anos 1950, o instrumento foi inicialmente chamado de Broadcaster. 
 
 	Basicamente possui; 2 singlle coils, 2 knobs ( volome, tonalidade).
 	Estilos blues, rock, jazz.
 
-			Les Paul
+			## Les Paul
 
 	Esse é um dos tipos de guitarra mais conhecidos de todos os tempos. Também fabricada em série a partir do início dos anos 1950, o modelo Les Paul é o carro chefe da Gibson.
 
@@ -29,7 +29,7 @@ Captadores: Humbucker
 Madeira(s) Característica(s): Mogno e Maple
 Estilos mais característicos: Rock
 
-			Stratocaster
+			## Stratocaster
 
 	Quando falamos em tipos de guitarra, esse é provavelmente o mais famoso. Talvez essa frase seja um pouco exagerada, afinal, não dá para saber com certeza qual o instrumento mais popular do planeta, mas com certeza a Stratocaster é uma das primeiras opções de muitos guitarristas.
 	Esse modelo foi criado pela Fender, em 1954, como uma derivação da Telecaster. Popularizado posteriormente por guitarristas lendários, como Jimi Hendrix, a versatilidade desse instrumento é o que faz dele um best seller.
@@ -38,7 +38,7 @@ Captadores: Single Coil
 Madeira(s) Característica(s): Ash e Alder
 Estilos mais característicos: Rock, blues, funk
 
-				SG
+				## SG
 
 	Em meados dos anos 1960, a Gibson começou a notar uma queda nas vendas do modelo Les Paul. Algumas críticas assolavam o famoso modelo da marca. Entre elas, vale destacar o peso do instrumento e a dificuldade de tocar usando as casas dos últimos trastes.
 
@@ -53,7 +53,7 @@ Madeira(s) Característica(s): Mogno
 Estilos mais característicos: Rock
 
 			
-				Flying V
+				## Flying V
 
 	Esse é um dos tipos de guitarra que foram imortalizados por lendas. Apesar de não ser um modelo amplamente usado, ele tem um lugar especial guardado nos corações de muitos guitarristas de rock’n’roll.
 
@@ -66,7 +66,7 @@ Madeira(s) Característica(s): Korina
 Estilos mais característicos: Rock
 
 
-			Explorer
+				## Explorer
 
 	Outra guitarra produzida pela Gibson no intuito de chegar a modelos mais futuristas é a Explorer. Ela foi lançada junto com a Flying V, no final da década de 1950, mas demorou um pouco mais para sair de linha pela primeira vez.
 
