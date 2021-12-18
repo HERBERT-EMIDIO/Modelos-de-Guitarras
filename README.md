@@ -1,2 +1,2 @@
-# Modelos-de-Guitarras
-Modelos de Guitarras
+# Modelos de Guitarras
+## Modelos/Tipos de Guitarras()
